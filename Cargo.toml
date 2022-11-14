@@ -1,6 +1,6 @@
 [package]
 name = "pau-rust"
-version = "0.0.1"
+version = "0.0.2"
 edition = "2021"
 authors = ["Wooz {nuno.levezinho@live.com.pt}"]
 description = "Application that demonstrates the basics of blockchain technology"
