@@ -1,0 +1,18 @@
+[package]
+name = "pau-rust"
+version = "0.0.1"
+edition = "2021"
+authors = ["Wooz {nuno.levezinho@live.com.pt}"]
+description = "Application that demonstrates the basics of blockchain technology"
+documentation = "https://github.com/woozchucky/pau-rust#README"
+readme = "README.md"
+homepage = "https://github.com/woozchucky/pau-rust"
+repository = "https://github.com/woozchucky/pau-rust"
+license = "MIT"
+keywords = ["gamedev", "graphics"]
+categories = ["cryptography::cryptocurrencies", "network-programming", "asynchronous", "algorithms"]
+
+include = ["src/", "README.md"]
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
