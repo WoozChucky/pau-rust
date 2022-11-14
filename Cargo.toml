@@ -9,7 +9,7 @@ readme = "README.md"
 homepage = "https://github.com/woozchucky/pau-rust"
 repository = "https://github.com/woozchucky/pau-rust"
 license = "MIT"
-keywords = ["cryptography", "blockchain", "decentralized", "p2p", "peer-to-peer", "web-api", "web-socket", "wallet"]
+keywords = ["cryptography", "blockchain", "decentralized", "peer-to-peer", "http"]
 categories = ["cryptography::cryptocurrencies", "network-programming", "asynchronous", "algorithms"]
 
 include = ["src/", "README.md"]
